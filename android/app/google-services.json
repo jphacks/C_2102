@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540861579435",
+    "project_id": "mokumoku-a",
+    "storage_bucket": "mokumoku-a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540861579435:android:b5919dcddc50db2f8f37ee",
+        "android_client_info": {
+          "package_name": "com.example.mokumoku_a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540861579435-lq691ags770l9cdnq678ltedpip601hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOZArcGo3eJmdTf3RaRPAu2MBsCVQfJ3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540861579435-lq691ags770l9cdnq678ltedpip601hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
