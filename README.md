@@ -1,9 +1,10 @@
 # MokuMoku
 <img src="https://user-images.githubusercontent.com/81545827/139521180-7a273330-ac8b-4257-9d4b-2c01093529c3.png" width="300">
+
 ### リポジトリ
 リポジトリはこのリポジトリではなく下記のリポジトリから参照願います。差分はREADMEの下記に記載しています。
-- [今回使用したリポジトリ MokuMoku-a](https://github.com/Ray-010/mokumoku-a)
-- [JPHACKS以前に開発していたリポジトリ MokuMoku](https://github.com/Ray-010/mokumoku)
+[今回使用したリポジトリ MokuMoku-a](https://github.com/Ray-010/mokumoku-a)
+[JPHACKS以前に開発していたリポジトリ MokuMoku](https://github.com/Ray-010/mokumoku)
 
 ## 製品概要
 ### 背景(製品開発のきっかけ、課題等）
