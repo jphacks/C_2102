@@ -1,4 +1,8 @@
 # MokuMoku
+でも動画↓
+
+https://www.youtube.com/watch?v=Xfhc3wx_qls
+
 <img src="https://user-images.githubusercontent.com/81545827/139521180-7a273330-ac8b-4257-9d4b-2c01093529c3.png" width="300">
 
 ### リポジトリ
