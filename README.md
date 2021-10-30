@@ -1,5 +1,5 @@
 # MokuMoku
-でも動画↓
+demo動画↓
 
 https://www.youtube.com/watch?v=Xfhc3wx_qls
 
